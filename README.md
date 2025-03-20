@@ -1,12 +1,13 @@
 # Plant-MAE
 Due to GitHub platform limitations, we cannot upload the crop dataset here. Please download the pre-trained model weights and raw data using the following links:
 
-Pre-trained weights:  https://pan.baidu.com/s/17cac6qEhLnMIbZPHOKMYEw?pwd=d6eb       Extraction code: d6eb 
+Weights:  https://pan.baidu.com/s/1S8uF3Qi1r8rtd3lYbVX6dA?pwd=6tyh       Extraction code: 6tyh 
 
-Raw data and Segmentation weights:  https://pan.baidu.com/s/1FcC-7kbiOs5p-GekBzuMgw?pwd=zypj    Extraction code: zypj 
+Raw data:  https://pan.baidu.com/s/1BMMPzV4hL3dA6Keq8CZ-4A?pwd=69ie    Extraction code: 69ie
 
 # Acknowledgement
 Our code borrows a lot from:
-Point-MAE
-Point-m2ae
-Point Transformer
+#Point-MAE
+#Point-m2ae
+#Point Transformer
+#PointNet++
