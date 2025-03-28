@@ -1,0 +1,5 @@
+NAME: Plant_class_linear #Plant_class_svm
+N_POINTS: 8192
+NUM_CATEGORY: 5
+DATA_PATH: /public/xiek/data/perpare_data_pretrain/Plant_MAE_data/Plant_pretrain_data/SVM #/public/xiek/data/perpare_data_pretrain/Plant_MAE_data/5K/SVM #/public/xiek/data/Crops3D_pretarin
+PC_PATH: /public/xiek/data/perpare_data_pretrain/Plant_MAE_data/Plant_pretrain_data/SVM/SVM_Data #/public/xiek/data/perpare_data_pretrain/Plant_MAE_data/5K/SVM/SVM_Data #/public/xiek/data/Crops3D_pretarin/Crops3D_10k_npy_pc
