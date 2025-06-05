@@ -1,0 +1,5 @@
+NAME: Plant_part
+DATA_PATH: /public/xiek/data/perpare_data_pretrain/Plant_MAE_data/5K/Pretrain #/public/xiek/data/Crops3D_pretarin
+N_POINTS: 5000
+PC_PATH: /public/xiek/data/perpare_data_pretrain/Plant_MAE_data/5K/Pretrain/Pretrain_data #/public/xiek/data/Crops3D_pretarin/Crops3D_10k_npy_pc
+loop: 15
